@@ -1,0 +1,14 @@
+Title: The Resurrected Reign
+
+In the distant city of Smot, where medieval life meets ancient technology, the land of Eskila faces a dark threat. Years ago, King Faith ruled with wisdom and justice, but his reign ended when his son, Graith, betrayed and murdered him to take over the throne. Now, Eskila suffers under Graith’s cruel rule and poor judgements, leading the lands faith's into darkness.
+
+Roswald, the late king’s former advisor, has discovered the forbidden art of necromancy. His obsession has led him to attempt the resurrection of King Faith, but twisted by dark magic, this resurrection threatens to unleash a vengeful force upon the world.
+
+You, a mysterious warrior, from Smot, set your adventure just as the ritual is nearing completion. The choices you make will shape the future of Eskila. Will you stop Roswald and prevent the rebirth of a wrathful king? Will you join forces with the undead to overthrow Graith? Or will you carve out your own path, seizing power for yourself? The fate of the land lies in your hands.
+
+There is a DecisionMaking.drawio - you can open it up at Draw IO in the internet to see the methods - which one leads to where and how does the tree system is working, what decisions are leading to where and how does it work.
+
+Inside the scripts, you can see comments and explaining on the easter eggs. That's cool
+
+In order to open up the game, just have Microsoft Visual Studio - and open the AdventureProject.sln and it should be running for you.
+Arigato !

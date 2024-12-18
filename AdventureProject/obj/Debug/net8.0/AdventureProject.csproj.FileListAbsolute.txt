@@ -1,0 +1,15 @@
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\bin\Debug\net8.0\AdventureProject.exe
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\bin\Debug\net8.0\AdventureProject.deps.json
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\bin\Debug\net8.0\AdventureProject.runtimeconfig.json
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\bin\Debug\net8.0\AdventureProject.dll
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\bin\Debug\net8.0\AdventureProject.pdb
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\obj\Debug\net8.0\AdventureProject.GeneratedMSBuildEditorConfig.editorconfig
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\obj\Debug\net8.0\AdventureProject.AssemblyInfoInputs.cache
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\obj\Debug\net8.0\AdventureProject.AssemblyInfo.cs
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\obj\Debug\net8.0\AdventureProject.csproj.CoreCompileInputs.cache
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\obj\Debug\net8.0\AdventureProject.sourcelink.json
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\obj\Debug\net8.0\AdventureProject.dll
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\obj\Debug\net8.0\refint\AdventureProject.dll
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\obj\Debug\net8.0\AdventureProject.pdb
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\obj\Debug\net8.0\AdventureProject.genruntimeconfig.cache
+F:\Programming\GitHub stuff for tower defense project\IntroToCS\Final Project\AdventureProject\obj\Debug\net8.0\ref\AdventureProject.dll
